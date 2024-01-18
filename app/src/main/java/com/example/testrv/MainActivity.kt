@@ -19,5 +19,8 @@ class MainActivity : AppCompatActivity() {
         customAdapter.addData("Значение 2")
         // И так далее
         recyclerView.adapter = customAdapter
+
+
+        //test
     }
 }
